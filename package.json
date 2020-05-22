@@ -1,0 +1,23 @@
+{
+  "name": "serverless-python3-template",
+  "version": "1.0.0",
+  "description": "Serverless Python 3 template",
+  "directories": {},
+  "dependencies": {
+    "serverless-offline": "^5.12.1"
+  },
+  "devDependencies": {
+    "serverless-python-requirements": "^5.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theo-kasa/serverless-python3-template.git"
+  },
+  "author": "theo-kasa <theo@kasa.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theo-kasa/serverless-python3-template/issues"
+  },
+  "homepage": "https://github.com/theo-kasa/serverless-python3-template#readme"
+}
