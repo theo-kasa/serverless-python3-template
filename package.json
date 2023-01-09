@@ -4,7 +4,7 @@
   "description": "Serverless Python 3 template",
   "directories": {},
   "dependencies": {
-    "serverless-offline": "^5.12.1"
+    "serverless-offline": "^12.0.4"
   },
   "devDependencies": {
     "serverless-python-requirements": "^5.1.0"
